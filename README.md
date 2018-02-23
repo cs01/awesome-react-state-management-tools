@@ -15,6 +15,8 @@
 * [undux](https://github.com/bcherny/undux) Dead simple state management for React
 * [unstated](https://github.com/jamiebuilds/unstated) State so simple, it goes without saying
 
+Note that you probably only want to choose *one* of these. They aren't meant to work together.
+
 Managing state in React is an important piece of building an app. While React has the built in `setState()` method on components (which you should thoroughly understand before adopting one of these tools), it does not ship with a way to manage global state.
 
 Everyone knows about redux and MobX, but there are lots more libraries out there. The strengths and weaknesses of state management lie in the mental models and patterns that emerge from their use. So try a few to find one that suits you, your team, and your project.
