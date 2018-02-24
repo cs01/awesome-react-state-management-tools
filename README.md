@@ -7,12 +7,15 @@
 
 ## these might help
 * [controllerim](https://github.com/Niryo/controllerim/) A state management library for React
+* [freactal](https://github.com/FormidableLabs/freactal) Clean and robust state management for React and React-like libs.
 * [laco](https://github.com/deamme/laco) Ultra lightweight state management for React and Inferno
 * [MobX](https://mobx.js.org/) Simple, scalable state management
 * [react-contextual](https://github.com/drcmda/react-contextual) is a tiny (less than 1KB) helper around React 16s new context api
 * [react-easy-state](https://github.com/solkimicreb/react-easy-state) minimal React state management with the power of ES6 Proxies
 * [redux](https://github.com/reactjs/redux/) +  [react-redux](https://github.com/reactjs/react-redux) Predictable state container for JavaScript apps + Official React bindings for Redux
+* [refunk](https://github.com/jxnblk/refunk) Simple React functional setState
 * [StatorGFC](https://github.com/cs01/statorgfc) the simplest possible global state library for React
+* [Sunfish](https://github.com/tzilist/Sunfish) functional transaction based state management library
 * [undux](https://github.com/bcherny/undux) Dead simple state management for React
 * [unstated](https://github.com/jamiebuilds/unstated) State so simple, it goes without saying
 
