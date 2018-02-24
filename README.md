@@ -10,6 +10,7 @@
 * [laco](https://github.com/deamme/laco) Ultra lightweight state management for React and Inferno
 * [MobX](https://mobx.js.org/) Simple, scalable state management
 * [react-contextual](https://github.com/drcmda/react-contextual) is a tiny (less than 1KB) helper around React 16s new context api
+* [react-easy-state](https://github.com/solkimicreb/react-easy-state) minimal React state management with the power of ES6 Proxies
 * [redux](https://github.com/reactjs/redux/) +  [react-redux](https://github.com/reactjs/react-redux) Predictable state container for JavaScript apps + Official React bindings for Redux
 * [StatorGFC](https://github.com/cs01/statorgfc) the simplest possible global state library for React
 * [undux](https://github.com/bcherny/undux) Dead simple state management for React
