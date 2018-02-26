@@ -15,7 +15,7 @@
 * [redux](https://github.com/reactjs/redux/) +  [react-redux](https://github.com/reactjs/react-redux) Predictable state container for JavaScript apps + Official React bindings for Redux
 * [refunk](https://github.com/jxnblk/refunk) Simple React functional setState
 * [satcheljs](https://github.com/Microsoft/satcheljs) Satchel is a data store based on the Flux architecture. It is characterized by exposing an observable state that makes view updates painless and efficient.
-* [Stator](https://github.com/cs01/stator) the simplest possible global state library for React
+* [Stator](https://github.com/cs01/stator) Simple, plain JavaScript state management with built-in support for React
 * [Sunfish](https://github.com/tzilist/Sunfish) functional transaction based state management library
 * [undux](https://github.com/bcherny/undux) Dead simple state management for React
 * [unstated](https://github.com/jamiebuilds/unstated) State so simple, it goes without saying
