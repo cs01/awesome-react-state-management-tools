@@ -1,30 +1,15 @@
-## if you...
-* have reasonable amounts of data changing over time
-* need a single source of truth for your state
-* find that keeping all your state in a top-level component is no longer sufficient
-
-(bullets are from redux docs)
-
-## these might help
 * [controllerim](https://github.com/Niryo/controllerim/) A state management library for React
 * [freactal](https://github.com/FormidableLabs/freactal) Clean and robust state management for React and React-like libs.
+* [https://github.com/arqex/freezer](freezer) A tree data structure that emits events on updates, even if the modification is triggered by one of the leaves, making it easier to think in a reactive way.
 * [laco](https://github.com/deamme/laco) Ultra lightweight state management for React and Inferno
 * [MobX](https://mobx.js.org/) Simple, scalable state management
 * [react-contextual](https://github.com/drcmda/react-contextual) is a tiny (less than 1KB) helper around React 16s new context api
 * [react-easy-state](https://github.com/solkimicreb/react-easy-state) minimal React state management with the power of ES6 Proxies
 * [redux](https://github.com/reactjs/redux/) +  [react-redux](https://github.com/reactjs/react-redux) Predictable state container for JavaScript apps + Official React bindings for Redux
 * [refunk](https://github.com/jxnblk/refunk) Simple React functional setState
+* [rematch](https://github.com/rematch/rematch) A Redux Framework
 * [satcheljs](https://github.com/Microsoft/satcheljs) Satchel is a data store based on the Flux architecture. It is characterized by exposing an observable state that makes view updates painless and efficient.
 * [Stator](https://github.com/cs01/stator) Simple, plain JavaScript state management with built-in support for React
 * [Sunfish](https://github.com/tzilist/Sunfish) functional transaction based state management library
 * [undux](https://github.com/bcherny/undux) Dead simple state management for React
 * [unstated](https://github.com/jamiebuilds/unstated) State so simple, it goes without saying
-
-Note that you probably only want to choose *one* of these. They aren't meant to work together.
-
-Managing state in React is an important piece of building an app. While React has the built in `setState()` method on components (which you should thoroughly understand before adopting one of these tools), it does not ship with a way to manage global state.
-
-Everyone knows about redux and MobX, but there are lots more libraries out there. The strengths and weaknesses of state management lie in the mental models and patterns that emerge from their use. So try a few to find one that suits you, your team, and your project.
-
-## Contributing
-Create a pull request to submit a new entry.
