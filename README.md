@@ -1,6 +1,6 @@
 * [controllerim](https://github.com/Niryo/controllerim/) A state management library for React
 * [freactal](https://github.com/FormidableLabs/freactal) Clean and robust state management for React and React-like libs.
-* [https://github.com/arqex/freezer](freezer) A tree data structure that emits events on updates, even if the modification is triggered by one of the leaves, making it easier to think in a reactive way.
+* [freezer](https://github.com/arqex/freezer) A tree data structure that emits events on updates, even if the modification is triggered by one of the leaves, making it easier to think in a reactive way.
 * [laco](https://github.com/deamme/laco) Ultra lightweight state management for React and Inferno
 * [MobX](https://mobx.js.org/) Simple, scalable state management
 * [react-contextual](https://github.com/drcmda/react-contextual) is a tiny (less than 1KB) helper around React 16s new context api
