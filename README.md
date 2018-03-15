@@ -7,6 +7,7 @@
 * [react-easy-state](https://github.com/solkimicreb/react-easy-state) minimal React state management with the power of ES6 Proxies
 * [redux](https://github.com/reactjs/redux/) +  [react-redux](https://github.com/reactjs/react-redux) Predictable state container for JavaScript apps + Official React bindings for Redux
 * [refunk](https://github.com/jxnblk/refunk) Simple React functional setState
+* [rosmaro](https://rosmaro.js.org) + [rosmaro-react](https://github.com/lukaszmakuch/rosmaro-react) Visual automata-based programming for React
 * [rematch](https://github.com/rematch/rematch) A Redux Framework
 * [remx](https://github.com/wix/remx) Opinionated mobx
 * [satcheljs](https://github.com/Microsoft/satcheljs) Satchel is a data store based on the Flux architecture. It is characterized by exposing an observable state that makes view updates painless and efficient.
