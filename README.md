@@ -1,3 +1,5 @@
+![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+
 * [controllerim](https://github.com/Niryo/controllerim/) A state management library for React
 * [freactal](https://github.com/FormidableLabs/freactal) Clean and robust state management for React and React-like libs.
 * [freezer](https://github.com/arqex/freezer) A tree data structure that emits events on updates, even if the modification is triggered by one of the leaves, making it easier to think in a reactive way.
@@ -14,6 +16,6 @@
 * [satcheljs](https://github.com/Microsoft/satcheljs) Satchel is a data store based on the Flux architecture. It is characterized by exposing an observable state that makes view updates painless and efficient.
 * [Stator](https://github.com/cs01/stator) Simple, plain JavaScript state management with built-in support for React
 * [Sunfish](https://github.com/tzilist/Sunfish) functional transaction based state management library
-* [tiny atom](https://github.com/QubitProducts/tiny-atom) Minimal, yet awesome, state management. 
+* [tiny atom](https://github.com/QubitProducts/tiny-atom) Minimal, yet awesome, state management.
 * [undux](https://github.com/bcherny/undux) Dead simple state management for React
 * [unstated](https://github.com/jamiebuilds/unstated) State so simple, it goes without saying
