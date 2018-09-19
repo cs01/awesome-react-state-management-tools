@@ -20,3 +20,6 @@
 * [tiny atom](https://github.com/QubitProducts/tiny-atom) Minimal, yet awesome, state management.
 * [undux](https://github.com/bcherny/undux) Dead simple state management for React
 * [unstated](https://github.com/jamiebuilds/unstated) State so simple, it goes without saying
+* [reworm](https://github.com/pedronauck/reworm) The simplest way to manage state!
+
+
