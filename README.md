@@ -2,6 +2,7 @@
 
 * [controllerim](https://github.com/Niryo/controllerim/) A state management library for React
 * [dakpan](https://github.com/houfio/dakpan) A tiny React state management library using the new React context.
+* [Dob](https://github.com/dobjs/dob) Light and fast state management tool.
 * [freactal](https://github.com/FormidableLabs/freactal) Clean and robust state management for React and React-like libs.
 * [freezer](https://github.com/arqex/freezer) A tree data structure that emits events on updates, even if the modification is triggered by one of the leaves, making it easier to think in a reactive way.
 * [laco](https://github.com/deamme/laco) Ultra lightweight state management for React and Inferno
