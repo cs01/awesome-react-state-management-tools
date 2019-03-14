@@ -10,6 +10,7 @@
 * [react-contextual](https://github.com/drcmda/react-contextual) is a tiny (less than 1KB) helper around React 16s new context api
 * [react-copy-write](https://github.com/aweary/react-copy-write) Immutable state with a mutable API
 * [react-easy-state](https://github.com/solkimicreb/react-easy-state) minimal React state management with the power of ES6 Proxies
+* [react-recollect](https://github.com/davidgilbertson/react-recollect) Simple state management for React
 * [redux](https://github.com/reactjs/redux/) +  [react-redux](https://github.com/reactjs/react-redux) Predictable state container for JavaScript apps + Official React bindings for Redux
 * [refunk](https://github.com/jxnblk/refunk) Simple React functional setState
 * [rosmaro](https://rosmaro.js.org) + [rosmaro-react](https://github.com/lukaszmakuch/rosmaro-react) Visual automata-based programming for React
