@@ -1,5 +1,6 @@
 ![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
+* [clearx](https://github.com/Autodesk/clearx) Fast & Effortless state management for React with zero learning curve.
 * [controllerim](https://github.com/Niryo/controllerim/) A state management library for React
 * [dakpan](https://github.com/houfio/dakpan) A tiny React state management library using the new React context.
 * [Dob](https://github.com/dobjs/dob) Light and fast state management tool.
