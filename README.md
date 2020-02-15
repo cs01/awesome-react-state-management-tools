@@ -13,6 +13,7 @@
 * [react-easy-state](https://github.com/solkimicreb/react-easy-state) minimal React state management with the power of ES6 Proxies
 * [react-recollect](https://github.com/davidgilbertson/react-recollect) Simple state management for React
 * [redux](https://github.com/reactjs/redux/) +  [react-redux](https://github.com/reactjs/react-redux) Predictable state container for JavaScript apps + Official React bindings for Redux
+* [redux-toolkit](https://github.com/reduxjs/redux-toolkit) The official, opinionated, batteries-included toolset for efficient Redux development (formerly Redux Starter Kit)
 * [refunk](https://github.com/jxnblk/refunk) Simple React functional setState
 * [rosmaro](https://rosmaro.js.org) + [rosmaro-react](https://github.com/lukaszmakuch/rosmaro-react) Visual automata-based programming for React
 * [rematch](https://github.com/rematch/rematch) A Redux Framework
