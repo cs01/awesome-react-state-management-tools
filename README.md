@@ -6,6 +6,7 @@
 * [Dob](https://github.com/dobjs/dob) Light and fast state management tool.
 * [freactal](https://github.com/FormidableLabs/freactal) Clean and robust state management for React and React-like libs.
 * [freezer](https://github.com/arqex/freezer) A tree data structure that emits events on updates, even if the modification is triggered by one of the leaves, making it easier to think in a reactive way.
+* [kea](https://kea.js.org/) Production Ready State Management for React
 * [laco](https://github.com/deamme/laco) Ultra lightweight state management for React and Inferno
 * [MobX](https://mobx.js.org/) Simple, scalable state management
 * [react-contextual](https://github.com/drcmda/react-contextual) is a tiny (less than 1KB) helper around React 16s new context api
