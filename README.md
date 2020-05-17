@@ -13,6 +13,7 @@
 * [react-copy-write](https://github.com/aweary/react-copy-write) Immutable state with a mutable API
 * [react-easy-state](https://github.com/solkimicreb/react-easy-state) minimal React state management with the power of ES6 Proxies
 * [react-recollect](https://github.com/davidgilbertson/react-recollect) Simple state management for React
+* [Recoil](https://github.com/facebookexperimental/Recoil) Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
 * [redux](https://github.com/reactjs/redux/) +  [react-redux](https://github.com/reactjs/react-redux) Predictable state container for JavaScript apps + Official React bindings for Redux
 * [redux-toolkit](https://github.com/reduxjs/redux-toolkit) The official, opinionated, batteries-included toolset for efficient Redux development (formerly Redux Starter Kit)
 * [refunk](https://github.com/jxnblk/refunk) Simple React functional setState
