@@ -28,3 +28,4 @@
 * [undux](https://github.com/bcherny/undux) Dead simple state management for React
 * [unstated](https://github.com/jamiebuilds/unstated) State so simple, it goes without saying
 * [react-scopes](https://github.com/rscopes/react-scopes) Scalable & intuitive state management system
+* [defi-react](https://github.com/finom/defi/tree/master/packages/react) A super straightforward state management library for React in 5 hooks and 2 methods
