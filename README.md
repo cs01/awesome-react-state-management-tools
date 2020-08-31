@@ -3,7 +3,9 @@
 * [clearx](https://github.com/Autodesk/clearx) Fast & Effortless state management for React with zero learning curve.
 * [controllerim](https://github.com/Niryo/controllerim/) A state management library for React
 * [dakpan](https://github.com/houfio/dakpan) A tiny React state management library using the new React context.
+* [defi-react](https://github.com/finom/defi/tree/master/packages/react) A super straightforward state management library for React in 5 hooks and 2 methods
 * [Dob](https://github.com/dobjs/dob) Light and fast state management tool.
+* [easy-peasy](https://github.com/ctrlplusb/easy-peasy) Vegetarian friendly state for React
 * [freactal](https://github.com/FormidableLabs/freactal) Clean and robust state management for React and React-like libs.
 * [freezer](https://github.com/arqex/freezer) A tree data structure that emits events on updates, even if the modification is triggered by one of the leaves, making it easier to think in a reactive way.
 * [kea](https://kea.js.org/) Production Ready State Management for React
@@ -13,6 +15,8 @@
 * [react-copy-write](https://github.com/aweary/react-copy-write) Immutable state with a mutable API
 * [react-easy-state](https://github.com/solkimicreb/react-easy-state) minimal React state management with the power of ES6 Proxies
 * [react-recollect](https://github.com/davidgilbertson/react-recollect) Simple state management for React
+* [react-scopes](https://github.com/rscopes/react-scopes) Scalable & intuitive state management system
+* [react-sweet-state](https://github.com/atlassian/react-sweet-state) Shared state management solution for React
 * [Recoil](https://github.com/facebookexperimental/Recoil) Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
 * [redux](https://github.com/reactjs/redux/) +  [react-redux](https://github.com/reactjs/react-redux) Predictable state container for JavaScript apps + Official React bindings for Redux
 * [redux-toolkit](https://github.com/reduxjs/redux-toolkit) The official, opinionated, batteries-included toolset for efficient Redux development (formerly Redux Starter Kit)
@@ -27,8 +31,4 @@
 * [tiny atom](https://github.com/QubitProducts/tiny-atom) Minimal, yet awesome, state management.
 * [undux](https://github.com/bcherny/undux) Dead simple state management for React
 * [unstated](https://github.com/jamiebuilds/unstated) State so simple, it goes without saying
-* [react-scopes](https://github.com/rscopes/react-scopes) Scalable & intuitive state management system
-* [defi-react](https://github.com/finom/defi/tree/master/packages/react) A super straightforward state management library for React in 5 hooks and 2 methods
-* [react-sweet-state](https://github.com/atlassian/react-sweet-state) Shared state management solution for React
 * [zustand](https://github.com/react-spring/zustand) Bear necessities for state management in React
-* [easy-peasy](https://github.com/ctrlplusb/easy-peasy) Vegetarian friendly state for React
