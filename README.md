@@ -8,6 +8,7 @@
 * [easy-peasy](https://github.com/ctrlplusb/easy-peasy) Vegetarian friendly state for React
 * [freactal](https://github.com/FormidableLabs/freactal) Clean and robust state management for React and React-like libs.
 * [freezer](https://github.com/arqex/freezer) A tree data structure that emits events on updates, even if the modification is triggered by one of the leaves, making it easier to think in a reactive way.
+* [jotai](https://github.com/react-spring/jotai) Primitive, flexible state management for React
 * [kea](https://kea.js.org/) Production Ready State Management for React
 * [laco](https://github.com/deamme/laco) Ultra lightweight state management for React and Inferno
 * [MobX](https://mobx.js.org/) Simple, scalable state management
