@@ -33,3 +33,4 @@
 * [undux](https://github.com/bcherny/undux) Dead simple state management for React
 * [unstated](https://github.com/jamiebuilds/unstated) State so simple, it goes without saying
 * [zustand](https://github.com/react-spring/zustand) Bear necessities for state management in React
+* [statek](https://statek.dev) Simple, reactive state management library for react & plain JS
