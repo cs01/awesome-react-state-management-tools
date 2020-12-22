@@ -36,3 +36,4 @@
 * [unstated](https://github.com/jamiebuilds/unstated) State so simple, it goes without saying
 * [valtio](https://github.com/pmndrs/valtio) makes proxy-state simple
 * [zustand](https://github.com/react-spring/zustand) Bear necessities for state management in React
+* [concent](https://github.com/concentjs/concent) State management that tailored for react, it is simple, predictable, progressive and efficient.
