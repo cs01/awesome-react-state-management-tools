@@ -1,6 +1,7 @@
 ![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 * [clearx](https://github.com/Autodesk/clearx) Fast & Effortless state management for React with zero learning curve.
+* [concent](https://github.com/concentjs/concent) State management that tailored for react, it is simple, predictable, progressive and efficient.
 * [controllerim](https://github.com/Niryo/controllerim/) A state management library for React
 * [dakpan](https://github.com/houfio/dakpan) A tiny React state management library using the new React context.
 * [defi-react](https://github.com/finom/defi/tree/master/packages/react) A super straightforward state management library for React in 5 hooks and 2 methods
@@ -36,4 +37,3 @@
 * [unstated](https://github.com/jamiebuilds/unstated) State so simple, it goes without saying
 * [valtio](https://github.com/pmndrs/valtio) makes proxy-state simple
 * [zustand](https://github.com/react-spring/zustand) Bear necessities for state management in React
-* [concent](https://github.com/concentjs/concent) State management that tailored for react, it is simple, predictable, progressive and efficient.
