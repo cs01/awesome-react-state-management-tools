@@ -36,4 +36,5 @@
 * [undux](https://github.com/bcherny/undux) Dead simple state management for React
 * [unstated](https://github.com/jamiebuilds/unstated) State so simple, it goes without saying
 * [valtio](https://github.com/pmndrs/valtio) makes proxy-state simple
+* [xoid](https://github.com/onurkerimov/xoid) Scalable, fine-grained, and minimal state-management library for React and vanilla JavaScript
 * [zustand](https://github.com/react-spring/zustand) Bear necessities for state management in React
