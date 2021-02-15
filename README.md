@@ -1,5 +1,6 @@
 ![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
+* [agile-ts](https://github.com/agile-ts/agile) Spacy, fast, simple State Management Framework
 * [clearx](https://github.com/Autodesk/clearx) Fast & Effortless state management for React with zero learning curve.
 * [concent](https://github.com/concentjs/concent) State management that tailored for react, it is simple, predictable, progressive and efficient.
 * [controllerim](https://github.com/Niryo/controllerim/) A state management library for React
