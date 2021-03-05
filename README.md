@@ -19,6 +19,7 @@
 * [react-copy-write](https://github.com/aweary/react-copy-write) Immutable state with a mutable API
 * [react-easy-state](https://github.com/solkimicreb/react-easy-state) minimal React state management with the power of ES6 Proxies
 * [react-recollect](https://github.com/davidgilbertson/react-recollect) Simple state management for React
+* [react-rhino](https://github.com/aromalanil/react-rhino) Light weight & simple global state management with Typescript support out of the box.
 * [react-scopes](https://github.com/rscopes/react-scopes) Scalable & intuitive state management system
 * [react-sweet-state](https://github.com/atlassian/react-sweet-state) Shared state management solution for React
 * [Recoil](https://github.com/facebookexperimental/Recoil) Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
