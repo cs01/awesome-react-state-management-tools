@@ -41,3 +41,5 @@
 * [valtio](https://github.com/pmndrs/valtio) makes proxy-state simple
 * [xoid](https://github.com/onurkerimov/xoid) Scalable, fine-grained, and minimal state-management library for React and vanilla JavaScript
 * [zustand](https://github.com/react-spring/zustand) Bear necessities for state management in React
+* [teaful](https://github.com/teafuljs/teaful) Tiny, easy and powerful React state management
+
