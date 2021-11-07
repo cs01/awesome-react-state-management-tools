@@ -34,6 +34,7 @@
 * [statek](https://statek.dev) Simple, reactive state management library for react & plain JS
 * [storeon](https://github.com/storeon/storeon) A tiny event-based Redux-like state manager
 * [Sunfish](https://github.com/tzilist/Sunfish) functional transaction based state management library
+* [teaful](https://github.com/teafuljs/teaful) Tiny, easy and powerful React state management
 * [tiny atom](https://github.com/QubitProducts/tiny-atom) Minimal, yet awesome, state management.
 * [undux](https://github.com/bcherny/undux) Dead simple state management for React
 * [unstated](https://github.com/jamiebuilds/unstated) State so simple, it goes without saying
